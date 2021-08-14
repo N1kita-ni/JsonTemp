@@ -17,5 +17,10 @@
 		"name": "Lol3",
 		"age": 18,
 		"sex": "male"
-	}
+	},
+    {
+        "name": "Lol4",
+        "age": 124,
+        "sex": "female"
+    }
 ]
